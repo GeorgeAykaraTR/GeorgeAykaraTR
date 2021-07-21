@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeorgeAykaraTR
-- 👀 I’m interested in Serverless Applicaiton Development
+- 👀 I’m interested in Serverless Application Development
 - 🌱 I’m currently learning Systems Design and Development.
 
 <!---
