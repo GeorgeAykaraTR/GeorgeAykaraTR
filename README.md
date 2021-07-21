@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeAykaraTR
-- 👀 I’m interested in Java & AWS
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Serverless Applicaiton Development
+- 🌱 I’m currently learning Systems Design and Development.
 
 <!---
 GeorgeAykaraTR/GeorgeAykaraTR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
